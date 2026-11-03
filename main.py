@@ -10,7 +10,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 from src.handlers import router as handlers_router
 
-BOT_TOKEN = "8699853215:AAFzdKLYTHpxytuM4l-Aw2AhPWmNGLPR8f4"
+BOT_TOKEN = "У МЕНЯ ГИТ РУГАЕТСЯ ЧТО ТОКЕН В ОТКРЫТОМ ДОСТУПЕ, ПО ЭТОМУ УБРАЛ ЕЕ"
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
